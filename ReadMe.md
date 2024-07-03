@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Eu sou o Dev Tiago Correa, um estudante de desenvolvimento web focado em front-end.<br><br>🌟 Estou sempre aprendendo e contribuindo para a comunidade de código aberto.<br><br>🚀 No GitHub, estou trabalhando em projetos interessantes para aprimorar minhas habilidades como desenvolvedor front-end.<br><br>
+👋 Olá! Eu sou o Dev Tiágo S Correa, um estudante de desenvolvimento web focado em front-end.<br><br>🌟 Estou sempre aprendendo e contribuindo para a comunidade de código aberto.<br><br>🚀 No GitHub, estou trabalhando em projetos interessantes para aprimorar minhas habilidades como desenvolvedor front-end.<br><br>
 
 
 ## 🌐 Socials:
